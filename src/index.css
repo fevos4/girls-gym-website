@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@media (max-width: 640px) {
+  .your-class {
+    /* Adjust styles for mobile */
+    padding: 10px;
+    font-size: 14px;
+  }
+}
