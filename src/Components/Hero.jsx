@@ -14,7 +14,7 @@ const Hero = () => {
   };
 
   return (
-    <div className="min-h-[80vh] w-full flex items-center justify-center bg-gradient-to-r from-white to-[#FDC505] pt-16 px-4 md:px-24" id="hero">
+    <div className="min-h-[80vh]  flex items-center justify-center bg-gradient-to-r from-white to-[#FDC505] pt-16 px-4 md:px-24" id="hero">
       <div className="grid md:grid-cols-2 gap-8 max-w-7xl mx-auto">
         {/* Left Section: Text */}
         <div className="flex flex-col justify-center items-center md:items-start w-full px-2 py-6 sm:py-8">
