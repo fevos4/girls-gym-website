@@ -25,21 +25,21 @@ const Contact = () => {
           <div className="flex justify-center md:justify-start gap-4 mt-6">
             <a
               href="https://www.instagram.com/alphagym57?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
-              className="text-black text-2xl hover:text-gray-500 transition duration-300"
+              className="text-black text-2xl hover:text-[#FDC505] transition duration-300"
               aria-label="Instagram"
             >
               <FaInstagram />
             </a>
             <a
               href="https://www.tiktok.com/@alpha.girls.gym?is_from_webapp=1&sender_device=pc"
-              className="text-black text-2xl hover:text-gray-500 transition duration-300"
+              className="text-black text-2xl hover:text-[#FDC505] transition duration-300"
               aria-label="TikTok"
             >
               <FaTiktok />
             </a>
             <a
               href="https://t.me/Ekrrrr"
-              className="text-black text-2xl hover:text-gray-500 transition duration-300"
+              className="text-black text-2xl hover:text-[#FDC505] transition duration-300"
               aria-label="Telegram"
             >
               <FaTelegramPlane />

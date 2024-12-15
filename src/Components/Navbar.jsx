@@ -14,7 +14,8 @@ const Navbar = () => {
   };
 
   return (
-    <div className="w-full h-[90px] bg-transparent fixed top-0 left-0 z-50">
+    <div className="w-full h-[80px] bg-white/10 backdrop-blur-md fixed top-0 left-0 z-50">
+
       <div className="max-w-[1140px] h-full mx-auto flex justify-between items-center">
         <div onClick={() => scrollToSection('home')} className="cursor-pointer">
           <img src="/assets/logo.png" alt="logo" className='w-32' />
