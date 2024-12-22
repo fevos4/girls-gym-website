@@ -1,0 +1,73 @@
+{
+    "navbar": {
+      "home": "Home",
+      "services": "Services",
+      "about": "About Us",
+      "schedules": "Schedules",
+      "contact": "Contact Us"
+    },
+  
+    "onlyForGirls": "ONLY FOR GIRLS!",
+    "heroTitle": "Make Your Body Shape With {{brand}}",
+    "heroSubtitle": "Welcome to Alpha Girls Gym! Our mission is to empower women through fitness in a supportive, judgment-free environment.",
+    "exploreMore": "Explore more",
+    "contactUs": "Contact us",
+  
+  
+
+  
+    "programsHeader": "Programs we offer",
+    "bodyBuilding": {
+      "title": "Body Building",
+      "description": ["Squats", "Deadlifts", "Bench press"]
+    },
+    "fitnessTraining": {
+      "title": "Fitness Training",
+      "description": ["Weight Loss Exercises", "Cardio Exercises", "Aerobics"]
+    },
+    "consultation": {
+      "title": "Consultation",
+      "description": [
+        "We provide personalized guidance to enhance your sports performance, from assessments to customized training plans"
+      ]
+    }
+  ,
+  
+    "aboutHeader": "Why Alpha",
+    "aboutSubHeader": "We are providing the best experience for you",
+    "aboutDescription": "Our gym features state-of-the-art equipment, a spacious weightlifting area, and dedicated cardio machines. Enjoy our exclusive ladies-only zone for privacy and comfort.",
+    "aboutFeatures": {
+      "feature1": "Affordable cost",
+      "feature2": "Full Facilities",
+      "feature3": "Flexible Time",
+      "feature4": "Expert Trainee"
+    }
+  ,
+  
+    "scheduleHeader": "We are Open at:",
+    "scheduleSubHeader": "6 days per week",
+    "scheduleTimings": {
+      "morning": "Morning",
+      "afternoon": "Afternoon",
+      "morningTime": "12:00 - 5:00",
+      "afternoonTime": "10:00 - 1:00"
+    },
+    "membershipHeader": "Basic Membership:",
+    "membershipDetails": "1500 birr/month – Access to all gym facilities and group classes."
+  ,
+    "contactDescription": "Ready to start your fitness journey? Come join us and experience the Alpha Girls Gym difference!",
+    "contactUsHeader": "Contact Us",
+    "contactDetails": {
+      "phone": "0909887766",
+      "address": "Mebrat hail, Adama"
+    },
+    "socialMedia": {
+      "instagram": "Instagram",
+      "tiktok": "TikTok",
+      "telegram": "Telegram"
+    }
+  }
+  
+  
+  
+  

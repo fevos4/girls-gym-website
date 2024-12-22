@@ -1,0 +1,69 @@
+{
+    "navbar": {
+      "home": "መነሻ",
+      "services": "አገልግሎቶች",
+      "about": "ስለ እኛ",
+      "schedules": "መርሐግብር",
+      "contact": "ያግኙን"
+    }
+  ,  
+    "onlyForGirls": "ለሴቶች ብቻ!",
+    "heroTitle": "ከ {{brand}} ጋር ሰውነቶን ያስተካክሉ",
+    "heroSubtitle": "እንኳን ወደ Alpha የሴቶች ጂም በሰላም መጡ! የእኛ ተልእኮ ሴቶችን በአካል ብቃት መደገፍመደገፍ እና ማብቃት ነው።",
+    "exploreMore": "ይጎብኙ",
+    "contactUs": "ይደውሉልን",
+    
+
+    
+        "programsHeader": "ምናቀርባቸው አገልግሎቶች",
+        "bodyBuilding": {
+          "title": "ሰውነት ግንባታ",
+          "description": ["Squats", "Deadlifts", "Bench press"]
+        },
+        "fitnessTraining": {
+          "title": "የአካል ብቃት ስልጠና",
+          "description": ["ክብደት መቀነስ", "ካርድዮ", "አሮቢክ"]
+        },
+        "consultation": {
+          "title": "ምክር አገልግሎት",
+          "description": [
+            "ከግምገማዎች እስከ ብጁ የሥልጠና ዕቅዶች ድረስ የእርስዎን የስፖርት አፈጻጸም ለማሻሻል ግላዊ መመሪያ እንሰጣለን።"
+          ]
+        }
+      ,
+      
+        "aboutHeader": "አልፋን ለምን",
+        "aboutSubHeader": "ለእርስዎ ምርጥ ተሞክሮ እናቀርባለን",
+        "aboutDescription": "የኛ ጂም ዘመናዊ መሣሪያዎችን፣ ሰፊ የመስሪያ ቦታዎችዎች እና ልዩ የካርዲዮ ማሽኖችን ይዟል።",
+        "aboutFeatures": {
+          "feature1": "በተመጣጣኝ ዋጋ",
+          "feature2": "ሙሉ እቃዎች",
+          "feature3": "በተመቻቸ ሰዓት",
+          "feature4": "ብቁ አሰልጣኞች"
+        }
+      ,
+        "scheduleHeader": "ሚከፈትበት ሰዓት:",
+        "scheduleSubHeader": "በሳምንት 6 ቀን",
+        "scheduleTimings": {
+          "morning": "ጠዋት",
+          "afternoon": "ከሰአት",
+          "morningTime": "12:00 - 5:00",
+          "afternoonTime": "10:00 - 1:00"
+        },
+        "membershipHeader": "ዋና አባልነት:",
+        "membershipDetails": "1500 ብር/ወር – ለሁሉም የጂም መገልገያዎች ማግኘት እና ክላሶችን መሳተፍ ።"
+      ,
+        "contactDescription": "የአካል ብቃት ጉዞዎን ለመጀመር ዝግጁ ነዎት? ይምጡ እኛን ይቀላቀሉ ፤ የአልፋ ሴቶች ጂም ልዩነትን ይወቁ!",
+        "contactUsHeader": "አድራሻ",
+        "contactDetails": {
+          "phone": "0909887766",
+          "address": "መብራት ሃይል፣ አዳማ"
+        },
+        "socialMedia": {
+          "instagram": "ኢንስታግራም",
+          "tiktok": "ቲክቶክ",
+          "telegram": "ቴሌግራም"
+        }
+      }
+      
+      

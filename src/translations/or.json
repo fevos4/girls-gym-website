@@ -1,0 +1,69 @@
+{
+    "navbar": {
+      "home": "Mana",
+      "services": "Tajaajiloota",
+      "about": "Waa'ee Keenya",
+      "schedules": "Sagantaalee",
+      "contact": "Nu Quunnamaa"
+    }
+  ,  
+  "onlyForGirls": "Dubartoota qofaaf!",
+  "heroTitle": "Qaama kee {{brand}} faana sirreessaa!",
+  "heroSubtitle": "Baga gara Jiimii Dubartootaa Alphaatti dhuftan! Ergamni keenya dubartoota deggeruu fi humneessuudha.",
+  "exploreMore": "Daawwannaa",
+  "contactUs": "Nu argadhaa", 
+
+    "programsHeader": "Tajaajila nuti kenninu",
+    "bodyBuilding": {
+      "title": "Ijaarsa Qaamaa",
+      "description": ["Squats", "Deadlifts", "Bench press"]
+    },
+    "fitnessTraining": {
+      "title": "Leenjii Sochii",
+      "description": ["Ulfaatina hir'isuu", "Kaardiyoo", "Eroobiksii"]
+    },
+    "consultation": {
+      "title": "Mariisisuu",
+      "description": [
+        "Madaallii irraa kaasee hanga karoora leenjii haala barbaadamuun qophaa'etti, ga'umsa ispoortii keessan fooyyessuuf qajeelfama dhuunfaa ni kennina."
+      ]
+    }
+  ,
+  
+    "aboutHeader": "Alpha Maaliif",
+    "aboutSubHeader": "Muuxannoo hundarra gaarii ta'e isiniif dhiyeessina",
+    "aboutDescription": "Jiimiin keenya meeshaalee ammayyaa, bakka hojii bal'aa fi maashiniiwwan kaardiyoo adda addaa qaba",
+    "aboutFeatures": {
+      "feature1": "Gatii madaalawaadhaan",
+      "feature2": "Meeshaalee guutuu",
+      "feature3": "Yeroo mijatuutti",
+      "feature4": "Leenjistoota gahumsa qaban"
+    }
+  ,
+    "scheduleHeader": "Yeroo baniinsaa",
+    "scheduleSubHeader": "Torbanitti guyyaa 6",
+    "scheduleTimings": {
+      "morning": "Ganamaa",
+      "afternoon": "Galgala",
+      "morningTime": "12:00 - 5:00",
+      "afternoonTime": "10:00 - 1:00"
+    },
+    "membershipHeader": "Miseensummaa:",
+    "membershipDetails": "1500 Birrii/ji’a – Meeshaa jiimii hunda argachuu fi garee leenjii hundaaf fayyadama argachuu dandeessa."
+  ,
+    "contactDescription": "Imala fiitness keessan jalqabuuf qophiidhaa? Kottaa nu waliin ta'aa; Garaagarummaa Jiim Dubartootaa Alpha Argadhaa!",
+    "contactUsHeader": "Nu qunnamaa",
+    "contactDetails": {
+      "phone": "0909887766",
+      "address": "Mebrat hail, Adama"
+    },
+    "socialMedia": {
+      "instagram": "Instaagraamii",
+      "tiktok": "TikTok",
+      "telegram": "Telegraamii"
+    }
+  }
+  
+  
+  
+  
