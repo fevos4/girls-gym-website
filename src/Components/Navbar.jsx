@@ -35,7 +35,7 @@ const Navbar = () => {
           >
             <option value="am">አማርኛ</option>
             <option value="en">English</option>
-            <option value="om">Oromo</option>
+            <option value="om">Afan Oromo</option>
           </select>
         </div>
 
