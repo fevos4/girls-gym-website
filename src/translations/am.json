@@ -9,7 +9,7 @@
   ,  
     "onlyForGirls": "ለሴቶች ብቻ!",
     "heroTitle": "ከ {{brand}} ጋር ሰውነቶን ያስተካክሉ",
-    "heroSubtitle": "እንኳን ወደ Alpha የሴቶች ጂም በሰላም መጡ! የእኛ ተልእኮ ሴቶችን በአካል ብቃት መደገፍመደገፍ እና ማብቃት ነው።",
+    "heroSubtitle": "እንኳን ወደ Alpha የሴቶች ጂም በሰላም መጡ! የእኛ ተልእኮ ሴቶችን በአካል ብቃት መደገፍ እና ማብቃት ነው።",
     "exploreMore": "ይጎብኙ",
     "contactUs": "ይደውሉልን",
     
@@ -17,12 +17,12 @@
     
         "programsHeader": "ምናቀርባቸው አገልግሎቶች",
         "bodyBuilding": {
-          "title": "ሰውነት ግንባታ",
+          "title": "የሰውነት ግንባታ",
           "description": ["Squats", "Deadlifts", "Bench press"]
         },
         "fitnessTraining": {
           "title": "የአካል ብቃት ስልጠና",
-          "description": ["ክብደት መቀነስ", "ካርድዮ", "አሮቢክ"]
+          "description": ["ክብደት መቀነስ", "ካርድዮ", "ኤሮቢክ"]
         },
         "consultation": {
           "title": "ምክር አገልግሎት",
@@ -38,11 +38,11 @@
         "aboutFeatures": {
           "feature1": "በተመጣጣኝ ዋጋ",
           "feature2": "ሙሉ እቃዎች",
-          "feature3": "በተመቻቸ ሰዓት",
+          "feature3": "የተመቻቸ ሰዓት",
           "feature4": "ብቁ አሰልጣኞች"
         }
       ,
-        "scheduleHeader": "ሚከፈትበት ሰዓት:",
+        "scheduleHeader": "መክፈቻ ሰዓት:",
         "scheduleSubHeader": "በሳምንት 6 ቀን",
         "scheduleTimings": {
           "morning": "ጠዋት",
@@ -50,7 +50,7 @@
           "morningTime": "12:00 - 5:00",
           "afternoonTime": "10:00 - 1:00"
         },
-        "membershipHeader": "ዋና አባልነት:",
+        "membershipHeader": "አባልነት:",
         "membershipDetails": "1500 ብር/ወር – ለሁሉም የጂም መገልገያዎች ማግኘት እና ክላሶችን መሳተፍ።"
       ,
         "contactDescription": "የአካል ብቃት ጉዞዎን ለመጀመር ዝግጁ ነዎት? ይምጡ እኛን ይቀላቀሉ ፤ የአልፋ ሴቶች ጂም ልዩነትን ይወቁ!",
